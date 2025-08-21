@@ -47,10 +47,6 @@
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/JOBOYA" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
-<!--END_SECTION:activity-->
 
 ```
 
